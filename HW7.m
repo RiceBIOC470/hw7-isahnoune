@@ -1,4 +1,13 @@
 %HW7
+%GB comments
+1a 70. The equations generate fixed points at 1 and 0. Having 0 of anything won’t affect the system and is therefore a fixed point. Anything greater than 0 is a strong enough perturbation to the system that pushes  the population growth to its maximum capacity, which is a fixed point at 1 in this case. 
+1b. 90. It does affect how quick the system reaches its fixed point values. 
+1c. 90 I had to correct two mislabeled variables in your function to get it to work correctly. 
+1d 70. No axis labels and no explaination of your results
+2a 30 equation is not correct. This models activation and not a toggle switch. Use [V/(1+x(2)^4)-x(1); V/(1+x(1)^4)-x(2)];
+2b. 100 correctly generated plots, but the equations used are wrong. I will give full credit
+2c  100 same as 2b
+overall 79
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
